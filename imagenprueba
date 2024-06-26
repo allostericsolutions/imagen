@@ -1,7 +1,7 @@
 import streamlit as st
 
-# Ruta de la imagen (reemplázala con la URL de tu imagen)
-image_url = "https://github.com/allostericsolutions/Ahorcado-/blob/main/AllostericSolutions.png" 
+# Ruta de la imagen (URL actualizada)
+image_url = "https://github.com/allostericsolutions/imagen/blob/main/Allosteric_Solutions.png" 
 
 st.title("Mi primera aplicación Streamlit")
 
